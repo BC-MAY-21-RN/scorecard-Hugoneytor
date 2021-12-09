@@ -46,29 +46,29 @@ sidebar:
     - item: Dedication
       link: # dejar en blanco
 
-# Registra aquí un resumen de tu perfil
-# career-profile:
-#   title: About Me # NO MODIFICAR
-#   summary: |
-#     I am a person passionate about technology and I love programming, 
-#     I am fascinated by areas such as Web development and Mobile Programming,
-#     I like to learn new things and get new knowledges.
+#Registra aquí un resumen de tu perfil
+career-profile:
+  title: About Me # NO MODIFICAR
+  summary: |
+    I am a person passionate about technology and I love programming, 
+    I am fascinated by areas such as Web development and Mobile Programming,
+    I like to learn new things and get new knowledges.
 
-#     I am Software Engineer student. I love learning about programming and improving my work through the use of best practices and logical thinking. I am a proactive, diligent person with a great disposition for teamwork. Sharing knowledge and self-learning are things that I enjoy. 
+    I am Software Engineer student. I love learning about programming and improving my work through the use of best practices and logical thinking. I am a proactive, diligent person with a great disposition for teamwork. Sharing knowledge and self-learning are things that I enjoy. 
 
 
-# # Registra aquí tus estudios. Agrega o elimina según sea necesario
-# educationcomplete:
-#   - degree: Software Engineering at Facultad de Colima
-#     university: Universidad de Colima
-#     time: 2018 - current
-#     details: |
+# Registra aquí tus estudios. Agrega o elimina según sea necesario
+educationcomplete:
+  - degree: Software Engineering at Facultad de Colima
+    university: Universidad de Colima
+    time: 2018 - current
+    details: |
 
-#   - degree: BrightCoders
-#     university: Bootcamp
-#     time: 2021 - current
-#     details: |
-#       course to learn how to work in teams and learn React Native to develop mobile applications.
+  - degree: BrightCoders
+    university: Bootcamp
+    time: 2021 - current
+    details: |
+      course to learn how to work in teams and learn React Native to develop mobile applications.
 
 
 # # Registra aquí tu experiencia. Agrega o elimina según sea necesario
